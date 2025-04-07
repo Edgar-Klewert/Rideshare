@@ -75,7 +75,7 @@ O projeto conecta passageiros e motoristas de forma intuitiva, responsiva e segu
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/caronaapp.git
+git clone https://github.com/Edgar-Klewert/Rideshare.git
 cd caronaapp
 
 # 2. Instale as dependências
@@ -133,15 +133,15 @@ A interface do **CaronaApp** é totalmente adaptada para:
 1. Faça um **fork** deste repositório  
 2. Crie uma nova branch:
    ```bash
-   git checkout -b feature/nova-feature
+   git checkout -b feature/new-feature
    ```
 3. Faça o commit das suas alterações:
    ```bash
-   git commit -m 'feat: nova feature'
+   git commit -m 'feat: new feature'
    ```
 4. Faça o push para sua branch:
    ```bash
-   git push origin feature/nova-feature
+   git push origin feature/new-feature
    ```
 5. Abra um **Pull Request** 🚀
 
