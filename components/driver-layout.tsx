@@ -29,7 +29,7 @@ export default function DriverLayout({ children }: DriverLayoutProps) {
   return (
     <div className="flex min-h-screen flex-col">
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur">
-        <div className="container flex h-14 sm:h-16 items-center justify-between">
+        <div className="mx-auto flex h-14 sm:h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <Sheet open={isOpen} onOpenChange={setIsOpen}>
               <SheetTrigger asChild>
