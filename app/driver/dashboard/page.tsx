@@ -29,7 +29,7 @@ export default function DriverDashboard() {
 
   return (
     <DriverLayout>
-      <div className="container py-6 space-y-6 w-full">
+      <div className="py-6 space-y-6 w-full">
         <Card>
           <CardHeader>
             <div className="flex justify-between items-center">
