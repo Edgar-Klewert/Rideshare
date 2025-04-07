@@ -76,7 +76,7 @@ O projeto conecta passageiros e motoristas de forma intuitiva, responsiva e segu
 ```bash
 # 1. Clone o repositório
 git clone https://github.com/Edgar-Klewert/Rideshare.git
-cd caronaapp
+cd Rideshare
 
 # 2. Instale as dependências
 pnpm install
